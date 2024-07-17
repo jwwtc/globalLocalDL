@@ -1,4 +1,4 @@
-# globalLocalDL Framework
+# globalLocalDL
 
 ## Overview
 The globalLocalDL framework integrates the global-local approach with deep learning to bypass the fidelity and performance barrier that exists on the thermal process simulation side. The Transformer model converts the layerwise data to scanwise, enabling part-scale grain structure modeling.
